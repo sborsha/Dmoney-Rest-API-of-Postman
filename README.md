@@ -18,8 +18,8 @@
 ## How to run
 1. Clone this project
 2. Give following commands
-   ```npm i```
-   ```npm start```
+    1. ```npm i```
+    2. ```npm start```
 ## Output Newman report:
 ![Screenshot 2024-02-06 103715](https://github.com/sborsha/Dmoney-Rest-API-of-Postman/assets/97577812/073d0e6f-a2ae-4a46-864e-7c833bb8e1d5)
 
