@@ -20,7 +20,7 @@
 2. Give following commands
    ```npm i```
    ```npm start```
-## Output Newman reprt:
+## Output Newman report:
 ![newman report](https://github.com/sborsha/Dmoney-Rest-API-of-Postman-/assets/97577812/80126e6e-7fd1-4c32-ae61-f60dfdf5ebc3)
 
 ## API Documentation of Postman: https://documenter.getpostman.com/view/32621543/2s9Yywez6f
