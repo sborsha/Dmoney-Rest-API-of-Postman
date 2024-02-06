@@ -21,8 +21,10 @@
    ```npm i```
    ```npm start```
 ## Output Newman report:
-![newman report](https://github.com/sborsha/Dmoney-Rest-API-of-Postman-/assets/97577812/80126e6e-7fd1-4c32-ae61-f60dfdf5ebc3)
+![Screenshot 2024-02-06 103715](https://github.com/sborsha/Dmoney-Rest-API-of-Postman/assets/97577812/073d0e6f-a2ae-4a46-864e-7c833bb8e1d5)
 
 ## API Documentation of Postman: https://documenter.getpostman.com/view/32621543/2s9Yywez6f
 
-## Test case execl fle: https://docs.google.com/spreadsheets/d/1G2vTgs6ePagMx9DdOGqwr6ZvjuRljFkw/edit?usp=sharing&ouid=117539685062847307961&rtpof=true&sd=true
+## Test case Excel fle: https://docs.google.com/spreadsheets/d/1G2vTgs6ePagMx9DdOGqwr6ZvjuRljFkw/edit?usp=sharing&ouid=117539685062847307961&rtpof=true&sd=true
+
+## Bug Report Excel file: https://docs.google.com/spreadsheets/d/1mAJuUL5n2MDozimlzKEQpP9eDZRGs2vy/edit?usp=drive_link&ouid=117539685062847307961&rtpof=true&sd=true 
