@@ -25,6 +25,6 @@
 
 ## API Documentation of Postman: https://documenter.getpostman.com/view/32621543/2s9Yywez6f
 
-## Test case Excel fle: https://docs.google.com/spreadsheets/d/1G2vTgs6ePagMx9DdOGqwr6ZvjuRljFkw/edit?usp=sharing&ouid=117539685062847307961&rtpof=true&sd=true
+## Test case Excel file: https://docs.google.com/spreadsheets/d/1G2vTgs6ePagMx9DdOGqwr6ZvjuRljFkw/edit?usp=sharing&ouid=117539685062847307961&rtpof=true&sd=true
 
 ## Bug Report Excel file: https://docs.google.com/spreadsheets/d/1mAJuUL5n2MDozimlzKEQpP9eDZRGs2vy/edit?usp=drive_link&ouid=117539685062847307961&rtpof=true&sd=true 
